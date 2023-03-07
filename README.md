@@ -1,5 +1,6 @@
 #  TreePrinter
 
+
 A small library to convert a tree structure into a `String`, designed to be used for debugging purposes.
 
 # Quick Start
