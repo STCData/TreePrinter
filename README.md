@@ -1,3 +1,5 @@
+[![Swift](https://github.com/STCData/TreePrinter/actions/workflows/swift.yml/badge.svg)](https://github.com/STCData/TreePrinter/actions/workflows/swift.yml)
+
 #  TreePrinter
 
 
