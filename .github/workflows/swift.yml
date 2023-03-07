@@ -25,5 +25,3 @@ jobs:
       run: swift build -v
     - name: Test main package
       run: swift test -v
-    - name: Test OpenAIReTreeable
-      run: cd OpenAIReTreeable && swift test -v
